@@ -23,6 +23,8 @@ module Array
 
 {-| Fast immutable arrays. The elements in an array must have the same type.
 
+The current implementation in Elm 0.18 is buggy; use [`Skinney/elm-array-exploration`](http://package.elm-lang.org/packages/Skinney/elm-array-exploration) instead - it is the implementation that will be used in Elm 0.19.
+
 # Arrays
 @docs Array
 
